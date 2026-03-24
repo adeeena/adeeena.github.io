@@ -3,21 +3,30 @@
 // VARIABLES
 //
 
-// Colors
-$blue: #4183C4;
+// Bauhaus Color Palette
+$bauhaus-red:    #E94E34;
+$bauhaus-blue:   #1C39BB;
+$bauhaus-yellow: #F5B700;
+$bauhaus-black:  #111111;
+$bauhaus-white:  #FAFAFA;
 
-// Grays
-$black: #000;
+// Legacy aliases (used by _highlights.scss, _svg-icons.scss, etc.)
+$blue:       $bauhaus-blue;
+$black:      $bauhaus-black;
 $darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+$darkGray:   #333;
+$gray:       #666;
+$lightGray:  #e8e8e8;
+$white:      $bauhaus-white;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$font-display: "Playfair Display", serif;
+$font-body:    "Fira Sans", sans-serif;
+
+// Legacy font aliases
+$helvetica:    $font-body;
+$helveticaNeue: $font-body;
+$georgia:      $font-display;
 
 // Mobile breakpoints
 @mixin mobile {
