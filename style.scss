@@ -374,7 +374,7 @@ nav {
 //
 
 #main {
-  padding: var(--spacing-lg) 0;
+  padding: var(--spacing-lg);
   min-height: 60vh;
 }
 
@@ -499,9 +499,6 @@ footer {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	width: 36px;
-	height: 36px;
-	border: 2px solid rgba(255, 255, 255, 0.3);
 	transition: all .3s ease;
 
 	@media (hover: hover) {
