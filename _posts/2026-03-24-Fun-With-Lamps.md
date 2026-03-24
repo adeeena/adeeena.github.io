@@ -11,4 +11,4 @@ The initial fumbling finally bore some fruit this Sunday: the programmable lamp 
 
 ![AI thonk]({{ site.baseurl }}/images/2026-03/thonk.png)
 
-But to be real: parsing raw logs to guess what's happening inside Copilot’s "brain" feels like a desperate, dirty workaround. A kludge. After two days of tinkering, it seems viable for now—but "viable today" is a low bar. It works, but far from elegant.
+But to be real: parsing raw logs to guess what's happening inside Copilots "brain" feels like a desperate, dirty workaround. A kludge. After two days of tinkering, it seems viable for now—but "viable today" is a low bar. It works, but far from elegant.
