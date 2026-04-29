@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rambling
+title: A horse has 9 months of pregnancy
 ---
 
 Working with a handful of IT guys is like having a lifelong Leeloo Dallas Multipass to avoid ever having to eat lunch with colleagues. Even if you're forced into it, the conversation rarely scales beyond a binary assessment of whether the cheesy pasta is "decent" or "garbage."
